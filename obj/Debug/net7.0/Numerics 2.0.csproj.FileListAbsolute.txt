@@ -1,0 +1,15 @@
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/bin/Debug/net7.0/Numerics 2.0
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/bin/Debug/net7.0/Numerics 2.0.deps.json
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/bin/Debug/net7.0/Numerics 2.0.runtimeconfig.json
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/bin/Debug/net7.0/Numerics 2.0.dll
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/bin/Debug/net7.0/Numerics 2.0.pdb
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.csproj.AssemblyReference.cache
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.AssemblyInfoInputs.cache
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.AssemblyInfo.cs
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.csproj.CoreCompileInputs.cache
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.dll
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/refint/Numerics 2.0.dll
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.pdb
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/Numerics 2.0.genruntimeconfig.cache
+/Users/dsullivan6/Desktop/C# Projects /Numerics 2.0/obj/Debug/net7.0/ref/Numerics 2.0.dll
